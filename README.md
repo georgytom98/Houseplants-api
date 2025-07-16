@@ -27,4 +27,4 @@
     - HousePlants API Schema can be downloaded by clicking on
     /api/schema/ at the top left corner
 
-Thank you for visiting Georgy's Houseplant API!
+Thank you for using Georgy's Houseplant API!
